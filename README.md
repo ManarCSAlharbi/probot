@@ -10,4 +10,4 @@ A Telegram bot to help programmers level up their skills with daily coding chall
 ## How to Use
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/pro-bot.git
+   git clone https://github.com/ManarCSAlharbi/pro-bot.git
